@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Maria Kiourlappou"
-  #avatar           : "profile.png"
+  avatar           : "profile.png"
   bio              : "DPhil student at the University of Oxford. From Cyprus."
   location         : "Oxford"
   employer         :
