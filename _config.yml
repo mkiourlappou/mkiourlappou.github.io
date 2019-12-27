@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Maria Kiourlappou"
   avatar           : "profile.png"
-  bio              : "DPhil student at the University of Oxford." | "From Cyprus."
+  bio              : "DPhil student at the University of Oxford.| From Cyprus."
   location         : "Oxford"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
