@@ -10,7 +10,7 @@ locale                   : "en-GB"
 title                    : "Maria Kiourlappou"
 title_separator          : "-"
 name                     : &name "Maria Kiourlappou"
-description              : &description "personal description"
+description              : &description "DPhil student"
 url                      : https://mkiourlappou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mkiourlappou/mkiourlappou.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Maria Kiourlappou"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "DPhil student at the University of Oxford./n From Cyprus."
   location         : "Oxford"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
