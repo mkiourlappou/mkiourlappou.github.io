@@ -17,9 +17,9 @@ I am an avid runner and I love participating in running events and running outdo
 
 Research Interests
 ======
-I am interested in how machine learning algorithms that are suitable for small datasets for example Random Forests can be used on limited biological datasets and make valid predictions.
+My research interests lie in the application of machine learning algorithms on complex biological questions related to small and sparse biological datasets.
 
-I study how post-transcriptional regulation is important in neuron development in the brain and how it is related to mRNA expression and regulation. I work on this problem using Random Forests on information I have from microscopy images combined with gene information I gather from bioinformatics libraries and this is studied using the model organism _Drosophila Melanogaster_.
+In my PhD project I study how post-transcriptional regulation is important in neuron development in the brain and how it is related to mRNA expression and regulation. I work on this problem using Random Forests on information I have from microscopy images combined with gene information I gather from bioinformatics libraries.
 
 News
 ======
