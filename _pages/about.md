@@ -17,7 +17,7 @@ I am an avid runner and I love participating in running events and running outdo
 
 Research Interests
 ======
-My research interests lie in the application of machine learning algorithms on complex biological questions related to small and sparse biological datasets.
+My research interests lie in the application of machine learning algorithms on answering complex biological questions related to small and sparse biological datasets.
 
 In my PhD project I study how post-transcriptional regulation is important in neuron development in the brain and how it is related to mRNA expression and regulation. I work on this problem using Random Forests on information I have from microscopy images combined with gene information I gather from bioinformatics libraries.
 
