@@ -23,6 +23,8 @@ I study how gene expression in tissue can provide insights into post-transcripti
 
 News
 ======
+Checkout our preprint [Ribo-Pop: Simple, cost-effective, and widely applicable ribosomal RNA depletion](https://doi.org/10.1101/2020.05.19.102293) on bioaRxiv. 
+
 I was a winner of the competition "What is the biggest challenge or greatest opportunity for AI in the future?". I presented my idea on the AI@Oxford conference in September 2019.
 
 I was selected to attend MLSS 2019 (Machine Learning Summer School) where I presented a poster on my work.
